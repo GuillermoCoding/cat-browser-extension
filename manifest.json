@@ -8,7 +8,7 @@
     "tabs",
     "https://api.thecatapi.com/*"
   ],
-	"content_scripts": [
+  "content_scripts": [
     {
       "matches": ["<all_urls>"],
       "js": [
