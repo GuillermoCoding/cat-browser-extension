@@ -1,2 +1,2 @@
 # cat-browser-extension
-Cross-platform browser extension that display pictures of random cats 
+Cross-platform browser extension (Firefox and Chrome) that display pictures of random cats 
