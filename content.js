@@ -10,7 +10,6 @@ browser.runtime.onMessage.addListener(async () => {
 
     image.setAttribute("id", "catify-image");
     image.setAttribute("src", imageUrl);
-
     Object.assign(image.style, {
       height: "400px",
       position: "absolute",
